@@ -8,14 +8,6 @@ Network penetration testing, commonly known as “pen test,” is a critical cyb
 
 Ethical hackers use different methods to gather information about the network. They explore the network architecture, identify entry points, and assess the overall security landscape. The focus is on specific machines within the network. Pen testers check whether a particular machine is vulnerable to attacks, evaluate the effectiveness of existing defenses, and simulate both internal and external attacks.
 
-## Table of Contents
-1. Introduction
-2. Overview of Network Penetration Testing
-3. Penetration Testing Methodologies
-4. External vs Internal Network Testing
-5. Blind vs Double-Blind Testing
-6. Reporting and Mitigation Strategies
-7. Conclusion
 
 ## Motivation
 
@@ -34,12 +26,13 @@ The study involves simulating penetration tests on wireless networks using diffe
 
 
 
-
 ## References
 
-- OWASP Foundation. (2020). Wireless Network Penetration Testing. Retrieved from [OWASP Wireless Testing Guide](https://owasp.org/www-project-wireless-testing-guide/)
-- Evans, D. (2019). Penetration Testing: A Hands-On Introduction to Hacking. No Starch Press.
-- Metz, C. (2017). The Art of Network Penetration Testing. Wiley.
+- Hayajneh, T.; Krishnamurthy, P.; Tipper, D.; Le, A. Secure neighborhood creation in wireless ad hoc networks using hop count discrepancies. Mobile Netw. Appl. 2012, 17, 415–430.
+- Hayajneh, T.; Krishnamurthy, P.; Tipper, D. Deworm: A simple protocol to detect wormhole attacks in wireless ad hoc networks. In Proceedings of the IEEE 3rd International Conference on Network and System Security, Gold Coast, Australia, 19–21 October 2009; pp. 73–80.
+- Hayajneh, T.; Doomun, R.; Krishnamurthy, P.; Tipper, D. Source—Destination obfuscation in wireless ad hoc networks. Secur. Commun. Netw. 2011, 4, 888–901.
+- Doomun, R.; Hayajneh, T.; Krishnamurthy, P.; Tipper, D. Secloud: Source and destination seclusion using clouds for wireless ad hoc networks. In Proceedings of the IEEE Symposium on Computers and Communications, Sousse, Tunisia, 5–8 July 2009; pp. 361–367.
+- Weissman, C. (1993). Security penetration testing guideline. In Handbook for the Computer Security Certification of Trusted Systems, Center for Secure Information Technology, Naval Research Laboratory (NRL), US, 1-66.
 
 ## Acknowledgments
 
