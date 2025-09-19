@@ -40,4 +40,4 @@ I would like to thank Dr. S. Gopikrishnan for his invaluable guidance throughout
 
 ## Contact
 
-For any questions or discussions related to this paper, feel free to reach out via GitHub issues or email @ saagarcourses@gmail.com
+For any questions or discussions related to this paper, feel free to reach out via GitHub or email @ saagarcourses@gmail.com
